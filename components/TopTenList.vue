@@ -1,19 +1,17 @@
 <template>
     <div>
-        <p>
-            <ol>
-                <li>Movie 1</li>
-                <li>Movie 2</li>
-                <li>Movie 3</li>
-                <li>Movie 4</li>
-                <li>Movie 5</li>
-                <li>Movie 6</li>
-                <li>Movie 7</li>
-                <li>Movie 8</li>
-                <li>Movie 9</li>
-                <li>Movie 10</li>
-            </ol>
-        </p>
+        <ol>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
+            <li>7</li>
+            <li>8</li>
+            <li>9</li>
+            <li>10</li>
+        </ol>
     </div>
 </template>
 
