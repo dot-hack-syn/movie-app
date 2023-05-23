@@ -8,5 +8,9 @@
       </nav>
       <MovieHome />
     </div>
+
+  <div>
+    <TopTenList />
+  </div>
   </div>
 </template>
